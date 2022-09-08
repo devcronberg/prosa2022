@@ -25,3 +25,4 @@ For at få det kompileret og afviklet:
 - Opr. link: https://www.prosa.dk/kurser/arrangementer/introduktion-til-programmering
 - DASK: https://da.wikipedia.org/wiki/DASK
 - Køb af Pico og MicroBit: https://raspberrypi.dk/
+- Diverse artikler: https://www.altomdata.dk/author/michell-cronberg/
