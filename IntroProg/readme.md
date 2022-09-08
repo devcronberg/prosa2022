@@ -26,3 +26,4 @@ For at få det kompileret og afviklet:
 - DASK: https://da.wikipedia.org/wiki/DASK
 - Køb af Pico og MicroBit: https://raspberrypi.dk/
 - Diverse artikler: https://www.altomdata.dk/author/michell-cronberg/
+- Løsning på 'kodegåde': https://s4scoding.com/googles-blockly-games-maze-1-10-solutions/
